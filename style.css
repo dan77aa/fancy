@@ -1,0 +1,14 @@
+P {
+   padding-left: 20px;
+   color:blue
+  }
+img {
+    height: 20%;
+}
+body {
+    background: rgb(170,179,184);
+    background: linear-gradient(90deg, rgba(170,179,184,1) 0%, rgba(184,187,194,1) 84%);
+}
+.class1 {
+    height: 40%;
+}

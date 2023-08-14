@@ -6,9 +6,9 @@ img {
     height: 20%;
 }
 body {
-    background: rgb(170,179,184);
-    background: linear-gradient(90deg, rgba(170,179,184,1) 0%, rgba(184,187,194,1) 84%);
-}
+    background: rgb(240,128,128);
+    background: linear-gradient(90deg, rgba(240,128,128,0.7372198879551821) 0%, rgba(240,128,128,0.7372198879551821) 84%);
+    
 .class1 {
     height: 40%;
 }

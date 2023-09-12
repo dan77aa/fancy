@@ -1,6 +1,6 @@
 P {
    padding-left: 20px;
-   color:rgb(4, 4, 4)
+   color:rgb(206, 206, 206)
   }
 img {
     height: 20%;
@@ -8,7 +8,7 @@ img {
     border: 0px;
 }
 body {
-    background: rgb(240,128,128);
+    background: rgb(239, 128, 128);
     background: linear-gradient(90deg, rgba(240,128,128,0.7372198879551821) 0%, rgba(240,128,128,0.7372198879551821) 84%);
     font-family: "Roboto", sans-serif;
     font-size: 16px;
@@ -20,15 +20,18 @@ body {
     border-style: inset;
     border-width: 5px;
 }
-.block3 {
-    margin-right: 20px
-    height: 200%
-}
 .block4 {
-    margin-right: 70px
-    }
-.block5 {
-  height: 50%
+    padding-right: 100px;
+    padding-bottom: 100px;
+    text-align: left;
+    text-align: initial;
+    color: rgb(71, 0, 30);
+}
+.block4.a  {
+  size: 150%;
+}
+.block5.img {
+  height: 180%
 }
 @charset "utf-8";
 
